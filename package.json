@@ -2,7 +2,7 @@
   "name": "jsm-restaurant-uiux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://erickdc7.github.io/erickdc7/jsm-restaurant-uiux-u2",
+  "homepage": "https://erickdc7.github.io/jsm-restaurant-uiux-u2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
