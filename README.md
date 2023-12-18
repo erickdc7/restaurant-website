@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Restaurant Website
+This design is inspired by the work of [JavaScript Mastery](https://www.youtube.com/@javascriptmastery). Click [here](https://youtu.be/4oV65GVVits?si=NuvF_co8zLxo33ID) to watch the video.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies
+This web page was made with the following technologies:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- React Icons
+- GH-pages
 
-## Available Scripts
+## Pages
+This web page contains 7 sections: **Home**, **About**, **Menu**, **Awards** and **Contact**.
 
-In the project directory, you can run:
+### Home
+#### In this view, you will find several key elements that enhance the user experience. Firstly, you will be greeted with a title and a detailed description of the restaurant, accompanied by an appealing image. In addition, the page features an intuitive navigation bar that will effortlessly guide you through the different sections of the site.
+![preview hero section](src/assets/preview-1.jpeg)
 
-### `npm start`
+### About
+#### In this additional section, you will be provided with a deeper insight into the restaurant, including its rich history.
+![preview who section](src/assets/preview-2.jpeg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Menu
+#### In this section, you will have the opportunity to explore the restaurant’s menu, which includes a variety of wines, beers, and cocktails. Each beverage is detailed with its name, price, and the ingredients that make up the drink. Additionally, there are also some words from the owner and chef of the restaurant, providing a personal touch.
+![preview works section](src/assets/preview-3.jpeg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Awards
+#### In this section, you will see the awards and recognition that the restaurant has received, as well as a photo gallery of the dishes they offer.
+![preview contact section 1](src/assets/preview-4.jpeg)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Contact
+#### Finally, you will see the contact section, where you will find the restaurant’s address, opening hours, a form to subscribe to their newsletter, and their social media.
+![preview contact section 1](src/assets/preview-4.jpeg)
